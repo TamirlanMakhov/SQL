@@ -8,7 +8,7 @@
 
 -[hw_4 Joins](https://github.com/TamirlanMakhov/SQL#HW_4-Join)
 
--[hw_5 Subqueries]((https://github.com/TamirlanMakhov/SQL#HW_5-Subqueries)
+-[hw_5 Subqueries](https://github.com/TamirlanMakhov/SQL#HW_5-Subqueries)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
